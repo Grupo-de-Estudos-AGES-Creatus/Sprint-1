@@ -1,6 +1,8 @@
 # Sprint 1 - Introdução ao Frontend 🧮
 
-![Calculadora](calc.png)
+<p align="center">
+  <img src="calc.png" alt="Calculadora" width="300">
+</p>
 
 
 ## Visão Geral
